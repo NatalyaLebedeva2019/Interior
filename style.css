@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+}
+
+.container {
+    width: 1366px;
+    margin: 0 auto;
+}
+
+.padding-site {
+    padding-left: 98px;
+    padding-right: 98px;
+}
+
+.slider {
+    background-image: url("./img/slider_img.jpg");
+    height: 737px;
+    padding-top: 63px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 59px;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu-list {
+    list-style-type: none;
+}
+
+.menu-link {
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0.1em;
+    color: #8c8c8c;
+    text-decoration: none;
+    padding: 10px 13px;
+    padding-top: 0;
+    text-transform: uppercase;
+}
+
+.menu-link-active {
+    color: #212121;
+    border-bottom: 3px solid #212121;
+    font-weight: 700;
+}
+
+.slider-trending {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #43a047;
+}
+
+.slider-heading {
+    font-size: 62px;
+    font-weight: 100;
+    color: #212121;
+    text-transform: uppercase;
+}
+
+.slider-text {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 300;
+    color: #6c6c6c;
+    margin-top: 10px;
+}
+
+.order-button {
+    display: block;
+    text-align: center;
+    background-color: white;
+    width: 212px;
+    height: 45px;
+    border-radius: 23px;
+    line-height: 45px;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #212121;
+    box-shadow: 0px 2px 5px 0px;
+    text-decoration: none;
+    margin-top: 30px;
+}
+
+.order-button img {
+    width: 9px;
+    height: 12px;
+    margin-left: 22px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 135px;
+}
+
+.pagination-item {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-color: #c7c7c7;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.pagination-item-active {
+    width: 40px;
+    height: 40px;
+    background-color: #212121;
+    border-radius: 50%;
+}
+
+.slider-content {
+    margin-top: 283px;
+}
+
+.controll-list {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.controll-link {
+    text-decoration: none;
+    display: block;
+    font-size: 36px;
+    font-weight: 700;
+    color: #6c6c6c;
+    border-bottom: 1px solid #6c6c6c;
+    padding-bottom: 21px;
+}
+
+.controll-link-active {
+    color: #212121;
+    border-bottom: 3px solid #212121;
+    padding-bottom: 19px;
+}
+
+.explore-all-button {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #212121;
+    text-decoration: none;
+}
+
+
+
+

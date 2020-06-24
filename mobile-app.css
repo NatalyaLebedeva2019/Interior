@@ -1,0 +1,32 @@
+.mobile-app-container {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-image: url('./img/back_img.jpg');
+}
+
+.mobile-app-tag {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #6c6c6c;
+}
+
+.mobile-app-text {
+    font-size: 22px;
+    font-weight: 300;
+    color: #6c6c6c;
+}
+
+.mobile-app-links {
+    margin-top: 33px;
+}
+
+.mobile-app-list {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.mobile-app-link {
+    margin-right: 10px;
+}

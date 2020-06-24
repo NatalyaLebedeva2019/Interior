@@ -1,0 +1,17 @@
+.hot-deals-container {
+    background-image: url('./img/slider.jpg');
+    padding-top: 287px;
+    padding-bottom: 20px;
+}
+
+.hot-deals-tag {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #e53935;
+}
+
+.hot-deals-pag {
+    margin-top: 220px;
+}

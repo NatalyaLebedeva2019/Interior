@@ -1,0 +1,41 @@
+.exclusive-products-tag {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #1e88e5;
+}
+
+.exlusive-products-heading {
+    font-size: 36px;
+    font-weight: 700;
+    color: #212121;
+}
+
+.exlusive-products-text {
+    font-size: 14.1px;
+    line-height: 24px;
+    font-weight: 300;
+    color: #6c6c6c;
+}
+
+.exclusive-product-container {
+    padding-left: 98px;
+    padding-top: 120px;
+    margin-bottom: 90px;
+}
+
+.exclusive-products-active {
+    background-image: url('./img/exclus1.jpg');
+    width: 360px;
+    height: 390px;
+    float: left;
+    padding-left: 30px;
+    padding-top: 180px;
+    padding-right: 180px;
+}
+
+.exclusive-product {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}

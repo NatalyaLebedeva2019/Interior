@@ -1,0 +1,48 @@
+
+.promo-content {
+    height: 683px;
+    padding-left: 50px;
+    padding-right: 245px;
+}
+
+.promo-product-container {
+    display: flex;
+}
+
+.promo-content-1 {
+    background-image: url('./img/promo_img1.jpg');
+}
+
+.promo-content-2 {
+    background-image: url('./img/promo_img.jpg');
+}
+
+.promo-content-tag {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #1e88e5;
+    margin-top: 228px;
+}
+
+.promo-content-heading {
+    font-size: 36px;
+    font-weight: 700;
+    color: #212121;
+    margin-top: 18px;
+}
+
+.promo-content-text {
+    font-size: 14.1px;
+    line-height: 24px;
+    font-weight: 300;
+    color: #6c6c6c;
+    margin-top: 24px;
+}
+
+.promo-content-order-button img {
+    width: 8px;
+    height: 12px;
+    margin-left: 22px;
+}

@@ -1,0 +1,23 @@
+
+.trending-products {
+    margin-left: 98px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.trending-products-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 64px;
+    margin-right: 98px;
+}
+
+.trending-products-content {
+    display: inline-block;
+}
+
+.trending-products-item {
+    margin-bottom: 30px;
+    margin-right: 30px;
+}

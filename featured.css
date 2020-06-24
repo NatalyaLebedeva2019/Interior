@@ -1,0 +1,16 @@
+.featured-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.featured-pruducts-container {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.featured-products {
+    display:flex;
+    justify-content: space-between;
+}
